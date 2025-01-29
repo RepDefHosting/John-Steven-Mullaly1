@@ -20,10 +20,10 @@ metaDescription: Personal website of Chandler Villacruz, Senior Marketing Execut
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: About
 blogButton:
-  link: /blog
-  label: Visit My Blog
+  link: /
+  label: Home
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +31,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+A longtime resident of the Greater Boston Area (living in Cohasset) in Massachusetts, John Steven Mullaly earned his Bachelor of Arts in economics from Northeastern University in 1992 and his Master of Business Administration from the Boston University Questrom School of Business in 1999. With a professional history that spans more than 25 years, **[John Steven Mullaly](https://www.principalpost.com/in-brief/john-steven-mullaly)** primarily concentrates on strategic growth opportunities in the biotechnology sector.
