@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Chandler Villacruz, Senior Marketing Executive
+pageTitle: John Mullaly
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,11 +12,17 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
-  alt: Chandler Villacruz
+  src: /img/mullaly-hero-image.jpg
+  alt: John Mullaly
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: >-
+  Mr Mullaly is currently a private investor in the life sciences industry and
+  most recently
+
+  served as a Managing Director at LifeSci Advisors in Boston where he advised small
+
+  and mid cap biotechnology companies on institutional investor relations
 published: true
 profileButton:
   link: /profile
