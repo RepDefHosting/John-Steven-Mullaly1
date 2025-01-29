@@ -1,25 +1,25 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: John Mullaly
+jobTitle: Private Investor
+location: Cohasset, MA, USA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/mullaly-high-res-photo.jpg
+  alt: John Mullaly
+siteUrl: https://john-steven-mullaly.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
-    label: Visit
+    url: https://www.linkedin.com/in/john-mullaly-71209072
+    label: LinkedIn
     show: true
   pinterest:
     url: null
