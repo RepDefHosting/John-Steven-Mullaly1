@@ -11,7 +11,7 @@ metaDescription: >-
   and mid cap biotechnology companies on institutional investor relations
 published: true
 schemaType: ProfilePage
-header: Profile
+header: John Mullaly - Private Investor
 featuredImage:
   src: /img/untitled-design-6-.png
   alt: Headshot of Chandler Villacruz
